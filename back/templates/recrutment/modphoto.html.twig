@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello RecrutmentController!{% endblock %}
+
+
+{% block body %}
+{{ form_start(form) }}
+    {{ form_row(form.fichier) }}
+    <input type="submit" value="Modifier" class="btn btn-success">
+    {{ form_end(form) }}
+{% endblock %}

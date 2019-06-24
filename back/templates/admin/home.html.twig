@@ -1,0 +1,47 @@
+
+
+{% extends 'base.html.twig' %}
+
+{% block title %}Admin{% endblock %}
+
+{% block stylesheets %}
+    <style>
+        body{
+            background-color: #F5F5F5;
+        }
+        #test{
+            width: 150px;
+        }
+        .tab tr td {
+            height: 50px;
+        }
+        .tab tr{
+            text-align: center;
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+<body>
+    <div class="container">
+        <br>
+        <center>
+        <h2><b>Bienvenue Mr l'administrateur<b></b></h2>
+        <hr>
+
+                    <div class="card border-primary mb-3" style="max-width: 20rem;">
+                        <div class="card-header"><center>VOS ROLES</center></div>
+                        <div class="card-body">
+                            <h4 class="card-title"></h4>
+                            <table class="tab">
+                                <tr><td><a href="{{ path('affiche_recrut') }}" class="btn btn-outline-primary" id="test">Recrutement</a></td></tr>
+                                <tr><td><a href="{{ path('read_equipe') }}" class="btn btn-outline-primary" id="test">Equipe</a></td></tr>
+                                <tr><td><a href="{{ path('read_message') }}" class="btn btn-outline-primary" id="test">Visiteurs</a></td></tr>
+                            </table>
+                        </div>
+        </center>
+
+    </div>
+</body>
+    
+{% endblock %}

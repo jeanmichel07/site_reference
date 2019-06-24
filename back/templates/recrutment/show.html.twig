@@ -1,0 +1,36 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}RecrutmentController!{% endblock %}
+        {% block stylesheets %}
+            <style>
+                #bm{
+                    width: 150px;
+                }
+            </style>
+        {% endblock %}
+
+{% block body %}
+
+    <br>
+    <div class="rec">
+
+        <b>Fichier</b>
+        <p>
+            <img src="{{ asset('uploads/' ~ recrut.fichier) }}" width="150px"/>
+        </p>
+
+        <a href="{{ path('updatephot_recrut',{id:recrut.id}) }}" class="btn btn-success" id="bm">Modifier photos</a>
+
+        <hr>
+        <b>POSTE:</b> {{ recrut.post }}
+        <hr>
+        <b>PROFILE</b>
+        <br><br>{{ recrut.profil | raw }}<hr>
+        <b>MISSIONS</b><br><br>{{ recrut.mission | raw }}<hr>
+        <b>AUTRES</b><br><br>{{ recrut.autre | raw }}<hr>
+    </div>
+    <a href="{{ path('affiche_recrut') }}" class="btn btn-warning" id="bm"><b>OK</b></a><br><br><br>
+
+{% endblock %}
+
+

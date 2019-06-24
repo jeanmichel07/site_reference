@@ -1,0 +1,24 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Equipe!{% endblock %}
+        {% block stylesheets %}
+            <style>
+                #tes{
+                    width: 150px;
+                }
+            </style>
+        {% endblock %}
+
+{% block body %}
+    <br>
+    <p>
+             <img src="{{ asset('uploads/' ~ e.image) }}" width="150px"/>
+    </p>
+        <a href="{{ path('editePhoto_equipe',{id:e.id}) }}" class="btn btn-success" id="tes">Modifier photos</a>
+    <br>
+        <hr>
+        <b>NOM:</b>&#x20;{{ e.nom }}<br><br>
+        <b>POSTE:</b>&#x20;{{ e.poste }}
+        <br><br>
+    <a href="{{ path('read_equipe') }}" class="btn btn-warning" id="tes">OK</a>
+{% endblock %}

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/back/config/services.yaml" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="49099734-19ca-4512-ac49-152f38eaf4fd" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="49099734-19ca-4512-ac49-152f38eaf4fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/contact.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/background/contact.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service/mob/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/service/mob/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service/mob/7.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/service/mob/7.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service/mob/8.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/service/mob/8.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile.php" beforeDir="false" afterPath="$PROJECT_DIR$/mobile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/web.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/back/src/Controller/EquipeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/Controller/EquipeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/Controller/RecrutmentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/Controller/RecrutmentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/templates/equipe/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/back/templates/equipe/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/templates/equipe/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/back/templates/equipe/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/templates/recrutment/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/back/templates/recrutment/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/templates/recrutment/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/back/templates/recrutment/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/templates/recrutment/update.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/back/templates/recrutment/update.html.twig" afterDir="false" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+    </list>
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/back/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1859">
+              <caret line="349" column="40" selection-start-line="349" selection-start-column="40" selection-end-line="349" selection-end-column="40" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/templates/recrutment/modphoto.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/templates/equipe/updatequip.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/src/Controller/RecrutmentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="148" column="89" selection-start-line="148" selection-start-column="89" selection-end-line="148" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/src/Controller/EquipeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="2057">
+              <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/templates/equipe/edit.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+=======
+            <state relative-caret-position="272">
+              <caret line="165" column="9" lean-forward="true" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="159" column="60" selection-start-line="159" selection-start-column="60" selection-end-line="159" selection-end-column="60" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/templates/recrutment/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recrutement-detail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="62" column="82" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
+=======
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/bi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-586">
+              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+=======
+        <entry file="file://$PROJECT_DIR$/back/templates/equipe/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="884">
+              <caret line="52" column="18" selection-start-line="47" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+=======
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+=======
+            <state relative-caret-position="153">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Recrutement-detail.php" />
+        <option value="$PROJECT_DIR$/equipe.php" />
+        <option value="$PROJECT_DIR$/iot.php" />
+        <option value="$PROJECT_DIR$/bi.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/service.php" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/recrutement.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/logiciel.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/mobile.php" />
+        <option value="$PROJECT_DIR$/web.php" />
+=======
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/logiciel.php" />
+        <option value="$PROJECT_DIR$/recrutement.php" />
+        <option value="$PROJECT_DIR$/back/templates/recrutment/create.html.twig" />
+        <option value="$PROJECT_DIR$/back/src/Entity/Recrutment.php" />
+        <option value="$PROJECT_DIR$/back/templates/recrutment/index.html.twig" />
+        <option value="$PROJECT_DIR$/back/templates/recrutment/update.html.twig" />
+        <option value="$PROJECT_DIR$/back/templates/equipe/edit.html.twig" />
+        <option value="$PROJECT_DIR$/back/templates/recrutment/show.html.twig" />
+        <option value="$PROJECT_DIR$/back/templates/recrutment/modphoto.html.twig" />
+        <option value="$PROJECT_DIR$/back/src/Controller/RecrutmentController.php" />
+        <option value="$PROJECT_DIR$/back/templates/equipe/show.html.twig" />
+        <option value="$PROJECT_DIR$/back/templates/equipe/updatequip.html.twig" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/back/src/Controller/EquipeController.php" />
+        <option value="$PROJECT_DIR$/back/templates/base.html.twig" />
+=======
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+<<<<<<< HEAD
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/back/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/back/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/back/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/back/vendor/friendsofsymfony/rest-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/back/vendor/vich/uploader-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/back/vendor/willdurand/jsonp-callback-validator" />
+      <path value="$PROJECT_DIR$/back/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/back/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/back/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/back/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/back/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/back/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/back/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/back/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/back/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/back/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/templating" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/back/vendor/composer" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/back/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/panther" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/debug-bundle" />
+=======
+      <path value="$PROJECT_DIR$/back/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/panther" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/back/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/back/vendor/willdurand/jsonp-callback-validator" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/back/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/back/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/templating" />
+      <path value="$PROJECT_DIR$/back/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/friendsofsymfony/rest-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/back/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/back/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/back/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/back/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/back/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/back/vendor/vich/uploader-bundle" />
+      <path value="$PROJECT_DIR$/back/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/back/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/back/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/back/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/back/vendor/composer" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+      <path value="$PROJECT_DIR$/back/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/framework-bundle" />
+<<<<<<< HEAD
+      <path value="$PROJECT_DIR$/back/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/back/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/back/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/twig-bridge" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/site_reference.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+=======
+      <path value="$PROJECT_DIR$/back/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/dotenv" />
+    </include_path>
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/site_reference.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="683" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+=======
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+    <option name="width" value="683" />
+    <option name="height" value="768" />
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site_reference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="site_reference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_reference" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site_reference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_reference" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site_reference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_reference" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="equipe" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49099734-19ca-4512-ac49-152f38eaf4fd" name="Default Changelist" comment="" />
+      <created>1558514890004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558514890004</updated>
+      <workItem from="1558514891434" duration="15545000" />
+      <workItem from="1558594743602" duration="16662000" />
+      <workItem from="1558671098766" duration="5064000" />
+      <workItem from="1558681880950" duration="8409000" />
+      <workItem from="1558702885158" duration="7478000" />
+      <workItem from="1558773626625" duration="9507000" />
+      <workItem from="1558854513707" duration="6133000" />
+<<<<<<< HEAD
+      <workItem from="1559027159547" duration="1324000" />
+      <workItem from="1560323539175" duration="135000" />
+=======
+      <workItem from="1559027159547" duration="1952000" />
+      <workItem from="1559134296331" duration="90000" />
+      <workItem from="1559544860800" duration="1508000" />
+      <workItem from="1559634455847" duration="13214000" />
+      <workItem from="1559813462588" duration="2211000" />
+      <workItem from="1559822685411" duration="116000" />
+      <workItem from="1559823361651" duration="5000" />
+      <workItem from="1420140109632" duration="62000" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+=======
+      <workItem from="1560336806029" duration="4431000" />
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+=======
+      <workItem from="1560327602927" duration="5000" />
+      <workItem from="1560330526567" duration="422000" />
+      <workItem from="1560359445907" duration="29000" />
+      <workItem from="1560360390733" duration="630000" />
+      <workItem from="1560400988379" duration="591000" />
+      <workItem from="1560401993906" duration="422000" />
+      <workItem from="1560419381407" duration="7496000" />
+>>>>>>> c5eb6e16a736a684820771e4e8ace51da54c07f5
+=======
+      <workItem from="1560336806029" duration="7757000" />
+      <workItem from="1560409843815" duration="3276000" />
+<<<<<<< HEAD
+      <workItem from="1560417787469" duration="12019000" />
+      <workItem from="1560492051732" duration="1341000" />
+=======
+      <workItem from="1560417787469" duration="10613000" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="112349000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="97551000" />
+=======
+    <option name="totallyTimeSpent" value="109602000" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700454" />
+=======
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15960665" />
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+=======
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16187595" />
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+=======
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16641453" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23832528" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33742332" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23832528" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/back/src/Controller/EquipeController.php</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/back/bin/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13727" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recrutement-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="62" column="82" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/recrutement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+=======
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/recrutement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/iot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="83" column="96" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="96" />
+=======
+=======
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69785">
+          <caret line="4133" column="12" selection-start-line="4133" selection-start-column="12" selection-end-line="4133" selection-end-column="12" />
+          <folding>
+            <element signature="e#33359#33476#0" />
+            <element signature="e#33501#33659#0" />
+            <element signature="e#33681#33755#0" />
+            <element signature="e#33780#33799#0" />
+            <element signature="e#33986#34095#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="e#5#266#0#PHP" expanded="true" />
+          </folding>
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logiciel.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <state relative-caret-position="301">
+          <caret line="62" column="82" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="570">
+=======
+        <state relative-caret-position="128">
+          <caret line="200" column="42" selection-start-line="200" selection-start-column="42" selection-end-line="200" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="18" selection-start-line="47" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1859">
+          <caret line="349" column="40" selection-start-line="349" selection-start-column="40" selection-end-line="349" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="91" lean-forward="true" selection-start-line="49" selection-start-column="91" selection-end-line="49" selection-end-column="91" />
+>>>>>>> c5eb6e16a736a684820771e4e8ace51da54c07f5
+=======
+        <state relative-caret-position="539">
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+          <caret line="149" column="42" selection-start-line="149" selection-start-column="42" selection-end-line="149" selection-end-column="42" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="18" selection-start-line="47" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1216">
+          <caret line="258" column="37" lean-forward="true" selection-start-line="258" selection-start-column="37" selection-end-line="258" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="89" column="125" selection-start-line="89" selection-start-column="125" selection-end-line="89" selection-end-column="125" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="159" column="60" selection-start-line="159" selection-start-column="60" selection-end-line="159" selection-end-column="60" />
+=======
+        <state relative-caret-position="-526">
+          <caret line="114" column="43" selection-start-line="114" selection-start-column="43" selection-end-line="114" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recrutement.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="884">
+          <caret line="52" column="18" selection-start-line="47" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+>>>>>>> b5fe4b3184783f37cacceb54322fe9ff792c9dd0
+=======
+        <state relative-caret-position="446">
+          <caret line="69" column="46" lean-forward="true" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/src/Entity/Recrutment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/equipe/read.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/src/Repository/RecrutmentRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/create.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/update.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/read.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/vendor/symfony/framework-bundle/Controller/ControllerTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/equipe/create.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/modphoto.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/equipe/updatequip.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/src/Controller/RecrutmentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="148" column="89" selection-start-line="148" selection-start-column="89" selection-end-line="148" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/src/Controller/EquipeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="476">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/recrutment/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/equipe/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="285">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+>>>>>>> 59a45fac928109084d06a8fd20a4bd3897c2b5b8
+=======
+        <state relative-caret-position="272">
+          <caret line="165" column="9" lean-forward="true" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+>>>>>>> d408913cf5db9d2b605b4794f9e6cb9f950847fa
+>>>>>>> c383411904fb6caff8f379152d87370e94a915c8
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/templates/equipe/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello RecrutmentController!{% endblock %}
+
+{% block body %}
+    <div class="container mt-4">
+        <h2><b>LES VISITEURS</b></h2>
+        <table class="table table-striped">
+            <hr>
+            <thead>
+            <tr><th>NOM</th><th>EMAIL</th><th>TITRE</th><th>Action</th></tr>
+            </thead>
+            {% for e in message %}
+                <tbody><tr><td>{{ e.name }}</td><td>{{ e.email }}</td><td>{{ e.titre }}</td>
+                    <td>
+                        <a href="{{ path('message_view',{id:e.id}) }}" class="btn btn-primary">Voir le message</a>
+                        <a href="#" class="btn btn-danger" onclick="DelComment({{ e.id }})">Supprimer</a>
+                    </td>
+                </tr></tbody>
+            {% endfor %}
+        </table>
+    </div>
+
+    <script>
+        function DelComment(id){
+            if(confirm("Voulez vous vraiment supprimer cette Enregistrement ?")){
+                window.location='/back/public/index.php/delete/visiteur/'+id
+            }
+            else{
+                alert("L'enregistrement n'a pas été supprimé.")
+            }
+        }
+    </script>
+
+{% endblock %}

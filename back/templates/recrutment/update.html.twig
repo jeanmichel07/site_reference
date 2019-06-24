@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Liste recrutement!{% endblock %}
+
+{% block body %}
+    <center>
+    <h2><b>MISE A JOUR DU RECRUTEMENT</b></h2><hr>
+    {{ form_start(form) }}
+    {{ form_row(form.post) }}
+    {{ form_row(form.profil) }}
+    {{ form_row(form.mission) }}
+    {{ form_row(form.autre) }}
+        <input type="submit" value="Editer" class="btn btn-success">
+    {{ form_end(form) }}
+    </center>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello RecrutmentController!{% endblock %}
+
+        {% block stylesheets %}
+           <style>
+              body{
+                 background-color: #F5F5F5;
+              }
+              #tes{
+                 width: 200px;
+              }
+           </style>
+        {% endblock %}
+{% block body %}
+   <center>
+   <h2><b>NOUVELLE MEMBRE</b></h2><hr>
+   {{ form_start(form) }}
+   {{ form_row(form.nom) }}<br>
+   {{ form_row(form.poste) }}<br>
+   {{ form_row(form.image) }}<br>
+   <input id="tes" type="submit" value="Ajouter" class="btn btn-success">
+   {{ form_end(form) }}
+   </center>
+{% endblock %}
