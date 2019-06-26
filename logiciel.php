@@ -118,7 +118,7 @@
                                     <img src="images/service/log/3.png" />
                                     <h3 style="color: #fc611f; text-shadow: 3px 2px 5px #FFFFFF;">Evolutif</h3>
                                     <p>En plus de la maintenance corrective, nous pouvons mettre en place une maintenance
-                                        évolutive (contrat TMA) en fonction des besoins de votre entreprise afin de vous
+                                        évolutive en fonction des besoins de votre entreprise afin de vous
                                         accompagner tout au long de la croissance de votre entreprise et de répondre à ses nouveaux besoins.
                                     </p>
                                 </div>
@@ -147,9 +147,9 @@
                                 <div class="content">
                                     <img src="images/service/log/6.png" />
                                     <h3 style="color: #cf403e; text-shadow: 3px 2px 5px #FFFFFF;">Approprié</h3>
-                                    <p>Puisqu’ils sont engagés dès le début dans le projet, les utilisateurs ont une meilleure
+                                    <p>Puisqu’ils sont engagés dès le début du projet, les utilisateurs ont une meilleure
                                         appropriation du logiciel. Chacun est porteur d'idées et les utilisateurs sont les
-                                        mieux placés pour donner leur avis.
+                                        mieux placés pour donner leurs avis.
                                     </p>
                                 </div>
                             </li>
@@ -169,7 +169,7 @@
                     </div>
                 </div>
                 <p data-aos="fade-right" style="text-align: center; color: white; margin-bottom: 70px;font-weight: bold">
-                    NL Technologie vous propose sa solution informatique adapté entièrement à votre activité et façon de travailler!
+                    NL Technologie vous propose sa solution informatisée adaptée entièrement à votre activité et façon de travailler!
                 </p>
             </div>
             <div class="row" style="background:#f8f8f8;padding: 70px 70px">
@@ -213,11 +213,11 @@
                 <div  class="col-md-6"">
                 <h2  data-aos="zoom-in"
                      data-aos-easing="linear"
-                     data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left: 6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">Avantage pour votre entreprise</h2>
+                     data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left: 6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">Avantages pour votre entreprise</h2>
                 <p data-aos="fade-down"
                    data-aos-easing="linear"
                    data-aos-duration="800" style="text-align: justify; margin-top: 10px; color: black">
-                    Chaque société est unique! Et chaque entrepreneur dévellope des idées et stratégies uniques!<br>
+                    Chaque société est unique! Et chaque entrepreneur développe des idées et stratégies uniques!<br>
                     Vos avantages en utilisant un logiciel sur mesure:
                 </p>
                 <p data-aos="fade-right"
@@ -230,9 +230,7 @@
                     - Vous pouvez envisager de monétiser ou revendre cette solution logicielle<br>
                     - Vous devenez propriétaire de votre logiciel pour disposer d’un avantage concurrentiel.
                 </p>
-                <div data-aos="zoom-in" style="text-align: center; margin-top: 20px">
-                    <a href="contact.php"><button class="theme-btn btn-style-two" style="text-align: center">DEMANDEZ UN DEVIS</button></a>
-                </div>
+               
             </div>
             <div data-aos="flip-left"
                  data-aos-easing="ease-out-cubic"

@@ -97,45 +97,38 @@
                                 <div class="content">
                                     <img src="images/service/web/CREATION.png" />
                                     <h3 style="color: #070718; text-shadow: 3px 2px 5px #FFFFFF;">Site vitrine</h3>
-                                    <p>Présente l'entreprise ou la marque ainsi
-                                        que son activité. La forme est libre et ce
-                                        type de site possède généralement une
-                                        mise en forme originale.</p>
+                                    <p>Le site vitrine est l'idéal pour présenter l'entreprise ou la marque ainsi que son activité. 
+                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/web/CREATION12.png" />
                                     <h3 style="color: #3e5082; text-shadow: 3px 2px 5px #FFFFFF;">Site catalogue</h3>
-                                    <p>Présente l'entreprise ou la marque
-                                        ainsi que son activité et tous ses
-                                        produits détaillés</p>
+                                    <p>Le site catalogue est ce qu'il vous faut pour aller plus en profondeur et exposer en détail tous vos produits et services.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/web/CREATION13.png" />
                                     <h3 style="color: #fc7344; text-shadow: 3px 2px 5px #FFFFFF;">site informatif</h3>
-                                    <p>Regroupe des données sur un sujet
-                                        commun.</p>
+                                    <p>Votre client a besoin d'informations? Votre site informatique le guidera pas à pas et enchantera son experience client.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/web/CREATION14.png" />
                                     <h3 style="color: #e889af; text-shadow: 3px 2px 5px #FFFFFF;">site E-commerce</h3>
-                                    <p>Boutique en ligne dynamique avec une gestion des contenu et
-                                        l’intégration d’un paiement
-                                        sécurisé.</p>
+                                    <p>Passez à l'ère du digital en intégrant votre boutique en ligne, un site dynamique avec une gestion des contenus ainsi qu'un outil de paiement sécurisé pour vous et vos clients.</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/web/CREATION15.png" />
                                     <h3 style="color: #004079; text-shadow: 3px 2px 5px #FFFFFF;">site Institutionnel</h3>
-                                    <p>Décrit une organisation, ses activités et ses valeurs. Le site institutionnel
-                                        donne toutes les informations pratiques nécessaires à ses clients ou à ses bénéficiaires.
-                                        Il permet également de mettre en relation les acteurs économiques comme les collectivités
+                                    <p>Présentez au monde votre organisation, ses activités et ses valeurs. Le site institutionnel
+                                        donne toutes les informations pratiques nécessaires à vos clients ou à vos bénéficiaires.
+                                        Il vous permet également de vous mettre en relation avec les acteurs économiques comme les collectivités
                                         et les associations.</p>
                                 </div>
                             </li>
@@ -143,8 +136,8 @@
                                 <div class="content">
                                     <img src="images/service/web/CREATION16.png" />
                                     <h3 style="color: #4f8624; text-shadow: 3px 2px 5px #FFFFFF;">L'Intranet</h3>
-                                    <p>Accessible uniquement par le personnel d'une même entreprise ou d'une direction,
-                                        l’intranet met à disposition et partage des informations professionnelles.</p>
+                                    <p>L'intranet est une plateforme accessible uniquement par le personnel de votre entreprise ou de votre direction,
+                                        l’intranet vous permet d'avoir à disposition et de partager des informations professionnelles.</p>
                                 </div>
                             </li>
                             <li>
@@ -152,8 +145,7 @@
                                     <img src="images/service/web/CREATION17.png" />
                                     <h3 style="color: #eef30b; text-shadow: 3px 2px 5px #FFFFFF;">Application Web</h3>
                                     <p>Une application web est un programme s’exécutant directement dans un navigateur web.
-                                        Consultable en ligne, il n’est pas nécessaire d’installer un logiciel sur votre ordinateur,
-                                        pour accéder à l’application il faut cependant avoir une connexion à Internet.</p>
+                                        Il n’est pas nécessaire d’installer un logiciel sur votre ordinateur, une connexion internet suffi pour acceder à l'application. Acceder à vos données stockés dans le cloud via votre navigateur.</p>
                                 </div>
                             </li>
                         </ul>
@@ -161,10 +153,8 @@
                     </div>
                 </div>
                 <p data-aos="fade-right" style="text-align: center; color: white;font-weight: bold">
-                    Toutes les entreprises convoitent le site internet parfait, celui qui
-                    fera augmenter leurs conversions et exploser leur popularité en ligne.<br>
-                    Nous vous rassurons avec un peu d’investissement, il est possible de
-                    concevoir un site web ou une application web à la hauteur de vos attentes !
+                    Toutes les entreprises convoitent le site internet parfait. Augmentez votre visibilité et permettez à vos clients de savoir ce que vous avez à leur offrir .
+                    Nous vous rassurons qu'avec un bon d’investissement, il est possible de concevoir un site web ou une application web à la hauteur de vos attentes !
                 </p>
             </div>
             <div class="row" style="background:#f8f8f8;padding: 70px 70px">
@@ -181,21 +171,21 @@
                         <h2 data-aos="flip-right"
                             data-aos-easing="linear"
                             data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left:
-                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">Conception Site ou application Web</h2>
+                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">Conception de site ou application Web</h2>
                         <p data-aos="fade-down"
                            data-aos-easing="linear"
                            data-aos-duration="1000" style="text-align: justify; margin-top: 10px;color: black">
-                            Nous pouvons réaliser la conception de votre site ou application web c'est à dire
+                            Nous pouvons réaliser la conception de votre site ou application web, c'est à dire
                         l’architecture interactionnelle, l’organisation des pages, l’arborescence et
-                        la navigation dans un site web.
-                        Nous pouvons donc tenir en compte ds contraintes spécifiques du support internet,
-                        notamment en termes d'ergonmie, 'utilisabilité et d'accessibilité.
+                        la navigation.
+                        Nous pouvons donc tenir en compte des contraintes spécifiques du support internet,
+                        notamment en termes d'ergonomie, d'utilisabilité et d'accessibilité.
                         </p>
                         <p data-aos="fade-down"
                            data-aos-easing="linear"
                            data-aos-duration="1000" style="color: black">
                             - Maquette Site Web <br>
-                           - Maquette Application Web
+                           - Maquette application Web
                         </p>
                         <div data-aos="fade-left"
                              style="text-align: center; margin-top: 20px">
@@ -209,16 +199,16 @@
                     <div  class="col-md-6"">
                         <h2  data-aos="zoom-in"
                              data-aos-easing="linear"
-                             data-aos-duration="700" style="font-size: 20px; text-align: center; color: #dfa60a; border-left: 6px solid #d2b871;background-color: lightgrey;font-weight: bold">Développement Site Web</h2>
+                             data-aos-duration="700" style="font-size: 20px; text-align: center; color: #dfa60a; border-left: 6px solid #d2b871;background-color: lightgrey;font-weight: bold">Développement de Site Web</h2>
                         <p data-aos="fade-down"
                            data-aos-easing="linear"
-                           data-aos-duration="800" style="text-align: justify; margin-top: 10px; color: black">
+                           data-aos-duration="300" style="text-align: justify; margin-top: 10px; color: black">
                             Nous développons votre site web en fonction de votre activité et vos besoins
                             selon le cahier de charge.
                         </p>
                         <p data-aos="fade-up"
                            data-aos-anchor-placement="center-center"
-                           data-aos-duration="700" style="color: black">
+                           data-aos-duration="300" style="color: black">
                             - Les sites vitrines<br>
                             - Les sites e-commerce<br>
                             - Les sites institutionnels<br>
@@ -251,16 +241,16 @@
                     <h2 data-aos="zoom-in-left"
                         data-aos-easing="linear"
                         data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left:
-                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold"">Développement application Web</h2>
+                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold"">Développement d'application Web</h2>
                     <p data-aos="fade-down"
                        data-aos-easing="linear"
                        data-aos-duration="1000" style="text-align: justify; margin-top: 10px; color: black;">
                     Une application web est un logiciel accessible depuis un navigateur web, pouvant fonctionner sur un ordinateur.
-                     Nous pouvons vous fournir l'application web prsonnalisée qui correspond à vos besoin.
+                     Nous pouvons vous fournir l'application web personnalisée qui correspond à vos besoin.
                     <p data-aos="fade-right"
                         data-aos-offset="300"
                         data-aos-easing="ease-in-sine" style="color: black;">
-                        - Application Web statique / Application web dynamique <br>
+                        - Application web statique / Application web dynamique <br>
                         - Application web de type e-shop ou e-commerce <br>
                         - Application web portail / Application web animée<br>
                         - Application web de type « content manager »

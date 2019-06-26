@@ -457,9 +457,8 @@
                             var arr=JSON.parse(xrh.response);
 
                             for(var i=0;i<arr.length;i++) {
-                                document.getElementById("demo").innerHTML += 
-                                '<div class="team-block-two col-lg-3 col-md-4 col-sm-6 col-xs-12"><div class="inner-box"><div class="image"><img src="/back/public/uploads/'+arr[i].image +'" width="175px" height="200px"><div class="overlay-box"><div class="content"><h3>' + arr[i].nom + '</h3><div class="designation">' + arr[i].poste+'</div><ul class="social-icon-three"><li><a href="#"><span class="fa fa-facebook"></span></a></li><li><a href="#"><span class="fa fa-linkedin"></span></a></li><li><a href="#"><span class="fa fa-twitter"></span></a></li><li><a href="#"><span class="fa fa-google-plus"></span></a></li></ul></div></div></div><div class="lower-box"><h3>'
-                                    + arr[i].nom +'</br>'+ arr[i].poste+'</h3> </div></div>'
+                                document.getElementById("demo").innerHTML +=
+                                    '<div class="col-lg-3 col-md-4 col-6"><div style="background-color: #B1800D; width: 175px; padding: 3px 3px 2px 2px; margin-bottom: 10px; border-radius: 7px"><img src="/back/public/uploads/'+arr[i].image +'" width="100%" height="200px"></br><p style="color: #ffffff">' + arr[i].nom + '<br><i>' + arr[i].poste+'</i></p></div></div>'
                             }
                         }
                     };

@@ -5,9 +5,11 @@ namespace App\Controller;
 use App\Entity\Equipe;
 use App\Entity\Recrutment;
 use App\Repository\EquipeRepository;
+use FOS\RestBundle\Controller\Annotations as Rest;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Form\Extension\Core\Type\FileType;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
+use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
@@ -102,7 +104,7 @@ class EquipeController extends AbstractController
     /**
      * @param Equipe $equipe
      * @param Request $request
-     * @return \Symfony\Component\HttpFoundation\RedirectResponse|Response
+     * @return RedirectResponse|Response
      * @Route("/edit/equipe/{id}", name="edit_equipe")
      */
     public function edit(Equipe $equipe, Request $request)
@@ -135,7 +137,7 @@ class EquipeController extends AbstractController
     /**
      * @param Equipe $equipe
      * @param Request $request
-     * @return \Symfony\Component\HttpFoundation\RedirectResponse|Response
+     * @return RedirectResponse|Response
      * @Route("/editePhoto/equipe/{id}", name="editePhoto_equipe")
      */
     public  function editePhoto(Equipe $equipe, Request $request){
@@ -166,8 +168,8 @@ class EquipeController extends AbstractController
 
     /**
      * @param Equipe $equipe
-     * @Route("/delete/equipe/{id}", name="delete_equipe")
-     * @return \Symfony\Component\HttpFoundation\RedirectResponse
+     * @return RedirectResponse
+     * @Route("/delete/equipe/{id}")
      */
     public function delete(Equipe $equipe)
     {

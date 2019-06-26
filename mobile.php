@@ -98,18 +98,16 @@
                                 <div class="content">
                                     <img src="images/service/mob/0.png" />
                                     <h3 style="color: #f48020; text-shadow: 3px 2px 5px #FFFFFF;">UNE EXPÉRIENCE CLIENT OPTIMISÉE</h3>
-                                    <p>une grande partie de vos clients seront
-                                        susceptibles de favoriser la navigation sur application
-                                        mobile à une navigation web</p>
+                                    <p>Les statistiques sur le trafic internet mondial nous montrent que nous avons tendance à plus à nous connecter sur les appareils mobiles que sur ordinateurs</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/mob/3.png" />
                                     <h3 style="color: #a0b742; text-shadow: 3px 2px 5px #FFFFFF;">UN GAIN EN VISIBILITÉ</h3>
-                                    <p>Avoir une application fait gagner en visibilité, et améliore l’image de marque.
-                                        C’est l’occasion pour une entreprise de mettre en avant son activité,
-                                        et de proposer de nouveaux services.</p>
+                                    <p>Avoir une application augmente votre couverture, et améliore l’image de marque.
+                                        C’est l’occasion pour une entreprise de se rapprocher de sa clientèle,
+                                        et leur proposer de nouveaux services.</p>
                                 </div>
                             </li>
                             <li>
@@ -117,7 +115,7 @@
                                     <img src="images/service/mob/4.png" />
                                     <h3 style="color: #e5615f; text-shadow: 3px 2px 5px #FFFFFF;"> UN OUTIL DE FIDÉLISATION</h3>
                                     <p>Il est donc beaucoup plus facile d’informer vos clients, d’interagir, de rester
-                                        à leur disposition et rendre possible l’envoi de notifications</p>
+                                        à leur disposition à tout moment et à tout endroit</p>
                                 </div>
                             </li>
                             <li>
@@ -126,7 +124,7 @@
                                     <h3 style="color: #002339; text-shadow: 3px 2px 5px #FFFFFF;">UN OUTIL DE GESTION CLIENT OPTIMISEE</h3>
                                     <p>Il permet à l’entreprise de gérer ses rendez-vous clients à distance, et aux clients
                                         de prendre rendez-vous à partir de plusieurs supports : ordinateur, tablette,
-                                        smartphone… Votre entreprise reste ainsi accessible partout, 24/7.</p>
+                                        smartphone… Votre entreprise reste ainsi accessible quand votre client en aura besoin, 24/7.</p>
                                 </div>
                             </li>
                             <li>
@@ -134,8 +132,7 @@
                                     <img src="images/service/mob/5.png" />
                                     <h3 style="color: #dfa60a; text-shadow: 3px 2px 5px #FFFFFF;">UN ENGAGEMENT CLIENT PLUS FORT</h3>
                                     <p>L'application mobile offre la possibilité d’établir un lien privilégié avec vos clients.
-                                        Sachez donc qu’il faut faire de la satisfaction client sa priorité, et l’application mobile
-                                        est l’outil le mieux placé pour cela.
+                                        Montrez à votre client que sa satisfaction est votre priorité, l’application mobile est l’outil le mieux placé pour cela.
                                     </p>
                                 </div>
                             </li>
@@ -144,10 +141,9 @@
                     </div>
                 </div>
                 <p data-aos="fade-right" style="text-align: center; color: white; margin-bottom: 70px;font-weight: bold">
-                    Toutes les entreprises convoitent le site internet parfait, celui qui
-                    fera augmenter leurs conversions et exploser leur popularité en ligne.<br>
-                    Nous vous rassurons avec un bon d’investissement, il est possible de
-                    concevoir un site web ou une application web à la hauteur de vos attentes !
+                    Professionnels, étudiants, artistes, touristes, quel que soit votre clientèle, 
+                    le smartphone est devenu un outil indispensable à tout un chacun, <br>
+                    Soyez près d'eux où qu'ils aillent avec votre application mobile sur leurs télephones et leurs tablettes.
                 </p>
 
             </div>
@@ -177,7 +173,7 @@
                        data-aos-easing="linear"
                        data-aos-duration="1000" style="color: black; text-align: justify">
                         Dans ce domaine il y a trois types de developpement mobile
-                        le mobile Native,hybride et Web apps.
+                        le mobile Native, hybride et Web apps.
                     </p>
                     <div data-aos="fade-left"
                          style="text-align: center; margin-top: 20px">
@@ -296,7 +292,7 @@
 
                                     
 
-                                    <p class="text-info"> <span class="badge badge-primary badge-pill">3</span>&nbsp;&nbsp;Compatible environnement iOS, Android,etc.</p>
+                                    <p class="text-info"> <span class="badge badge-primary badge-pill">3</span>&nbsp;&nbsp;Compatible environnement iOS, Android, etc.</p>
                                 </li>
                                 <li class="list-group-item d-flex justify-content-between align-items-center">
 
