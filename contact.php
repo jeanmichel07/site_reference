@@ -196,7 +196,7 @@
                 }
 
             $.ajax({
-                url:"http://127.0.0.1:8000/api/create/visitor",
+                url:"/back/public/index.php/api/create/visitor",
                 type:"post",
                 data:{
                     name:name,

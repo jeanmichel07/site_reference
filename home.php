@@ -37,7 +37,7 @@
                          data-bgposition="center center"
                          data-bgrepeat="no-repeat"
                          data-no-retina=""
-                         src="images/main-slider/image-13.png">
+                         src="images/main-slider/test.jpg">
                     
                     <div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -233,7 +233,7 @@
                      data-aos-easing="ease-in-sine" class="services-block col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box hvr-float-shadow">
                         <div class="image">
-                            <a href="logiciel.php"><img src="images/service/logiciel.png" alt="" /></a>
+                            <a href="logiciel.php"><img src="images/service/btn.png" alt="" /></a>
                         </div>
                         <div class="lower-content">
                             <h3 style="text-align: center;"><a href="logiciel.php">Logiciel sur mesure</a></h3>
@@ -248,8 +248,8 @@
                      data-aos-offset="300"
                      data-aos-easing="ease-in-sine" class="services-block col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box hvr-float-shadow">
-                        <div class="image">
-                            <a href="mobile.php"><img src="images/service/mobile.png" alt="" /></a>
+                        <div class="image" style="background-color: #fff">
+                            <a href="mobile.php"><img src="images/service/mob.jpg" alt="" height="150px"/></a>
                         </div>
                         <div class="lower-content">
                             <h3 style="text-align: center;"><a href="mobile.php">Applications Mobiles</a></h3>
@@ -265,7 +265,7 @@
                       data-aos-easing="ease-in-sine" class="services-block col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box hvr-float-shadow">
                         <div class="image">
-                            <a href="web.php"><img src="images/service/web2.png" alt="" /></a>
+                            <a href="web.php"><img src="images/service/web.png" alt="" /></a>
                         </div>
                         <div class="lower-content">
                             <h3 style="text-align: center;"><a href="web.php">Site ou Applications Web</a></h3>

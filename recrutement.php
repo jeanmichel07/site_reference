@@ -142,11 +142,10 @@
 
             for(var i=0;i<arr.length;i++) {
                 document.getElementById("gallery").innerHTML +=
-                    '<div class="mb-3 pics animation all 2">\n' +
-                    '  <a href="Recrutement-detail.php?idRec='+arr[i].id+'">\n' +
-                    '    <img width="100%" height="100px" src="/back/public/uploads/'+arr[i].image +'" alt="post">\n' +
-                    '  </a>\n' +
-                    '  <div class="desc"><center></b>'+arr[i].post+'</b></center></div>\n' +
+                    '<div class="mb-3 pics animation all 2">' +
+                    '  <a href="Recrutement-detail.php?idRec='+arr[i].id+'">' +
+                    '    <img width="100%" height="95px" src="/back/public/uploads/'+arr[i].image +'" alt="post">' +
+                    '  </a>' +
                     '</div>'
 
                     // '                            <img src="http://127.0.0.1:8000/uploads/'+arr[i].image +'" alt="post">' +

@@ -81,7 +81,7 @@
 
                             for(var i=0;i<arr.length;i++) {
                                 document.getElementById("demo").innerHTML +=
-                                    '<div class="col-lg-3 col-md-4 col-6"><div style="background-color: #B1800D; width: 175px; padding: 3px 3px 2px 2px; margin-bottom: 10px; border-radius: 7px"><img src="/back/public/uploads/'+arr[i].image +'" width="100%" height="200px"></br><p style="color: #ffffff">' + arr[i].nom + '<br><i>' + arr[i].poste+'</i></p></div></div>'
+                                    '<div class="col-lg-3 col-md-4 col-6"><div style="background-color: #B1800D; width: 175px; padding: 3px 3px 2px 2px; margin-bottom: 10px; border-radius: 7px"><img src="/back/public/uploads/'+arr[i].image +'" width="100%" height="200px"></br><p style="color: #ffffff">' + arr[i].nom + '<br><i style="color: gainsboro">' + arr[i].poste+'</i></p></div></div>'
                             }
                         }
                     };
