@@ -96,36 +96,36 @@
                             <li>
                                 <div class="content">
                                     <img src="images/service/iot/1.png" />
-                                    <h3 style="color:#00A8FF ; text-shadow: 3px 2px 5px #FFFFFF;">Principe de IOT</h3>
-                                    <p>Tous les étapes se fait avec un cryptage de bout en bout pour un maximum de cyber sécurité</p>
+                                    <h3 style="color:#00A8FF ; text-shadow: 3px 2px 5px #FFFFFF;">IOT</h3>
+                                    <p>Internet of things, Internet des objets, ou plus simplement: les objets connectés</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/iot/a.png" />
-                                    <h3 style="color: #c11a38; text-shadow: 3px 2px 5px #FFFFFF;">1-Mesure Via des Capteurs</h3>
-                                    <p>Récupérer des informations sur le terrain à l'aide d'un capteur</p>
+                                    <h3 style="color: #c11a38; text-shadow: 3px 2px 5px #FFFFFF;">Mesure Via des Capteurs</h3>
+                                    <p>Une nouvelle génération d'outil qui vous permet de collecter des données sur le terrain environnant...</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/iot/b.png" />
-                                    <h3 style="color: #a3c33a; text-shadow: 3px 2px 5px #FFFFFF;">2-Collecte et stockage de la data</h3>
-                                    <p>Les acheminer vers le cloud</p>
+                                    <h3 style="color: #a3c33a; text-shadow: 3px 2px 5px #FFFFFF;">Collecte et stockage de la data</h3>
+                                    <p>... directement sauvegardées et n'attendent plus qu'à être consultées et partagées</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/iot/c.png" />
-                                    <h3 style="color: #0796a4; text-shadow: 3px 2px 5px #FFFFFF;">3-Analyse Big DATA et Modélisation</h3>
-                                    <p>Les analyser en les croisant parfois avec d'autres données grace à la Big Data</p>
+                                    <h3 style="color: #0796a4; text-shadow: 3px 2px 5px #FFFFFF;">Analyse Big DATA et Modélisation</h3>
+                                    <p>Vous pourrez même les analyser en les croisant avec d'autres données dans la Big Data</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/iot/d.png" />
-                                    <h3 style="color: #e45205; text-shadow: 3px 2px 5px #FFFFFF;">4-Opérations et Actions Associes</h3>
-                                    <p>Déclencher des interventions si besoin</p>
+                                    <h3 style="color: #e45205; text-shadow: 3px 2px 5px #FFFFFF;">Opérations et Actions Associes</h3>
+                                    <p>Et déclenchez des interventions si besoin</p>
                                 </div>
                             </li>
                         </ul>
@@ -133,7 +133,8 @@
                     </div>
                 </div>
                 <p data-aos="fade-right" style="text-align: center; color: white; margin-bottom: 70px;font-weight: bold">
-                    Des Objets connectés sont développés par les experts de la Team NL Technologie. Ils accompagnent tous les métiers de l'entreprise pour concevoir et déployer l'IOT.
+                   Des Objets connectés sont développés par les experts de la Team NL Technologie. Ils accompagnent tous 
+                    les métiers de l'entreprise pour concevoir et déployer l'IOT.
                 </p>
             </div>
             <div class="row" style="background:#f8f8f8;padding: 70px 70px">
@@ -154,9 +155,9 @@
                     <p data-aos="fade-down"
                        data-aos-easing="linear"
                        data-aos-duration="1000" style="text-align: justify; margin-top: 10px;color: black">
-                        IOT est un concept mais pas des technologies ou des appareils spécifiques.<br>
-                        La volonté d’étendre les réseaux Internets et donc les échanges des données aux objets de monde physique
-                        Ses objets connectés à internet peuvent donc prendre la forme de n’importe quel objet quotidien.
+                        Le temps est maintenant à l'extension des réseaux Internets vers tous les appareils qui nous entoure. Des échanges de données numériques entre les objets du monde physique
+                        Ces objets connectés à internet peuvent qui prendre la forme de n’importe quel objet quotidien et 
+                        vont pourtant révolutionner votre mode de vie.
                     </p>
                     <p data-aos="fade-down"
                        data-aos-easing="linear"
@@ -181,10 +182,8 @@
                 <p data-aos="fade-down"
                    data-aos-easing="linear"
                    data-aos-duration="800" style="text-align: justify; margin-top: 10px; color: black">
-                    L'IOT a pour particularité de ne pas fonctionné d'une manière autonome mais justement capable de
-                    communiqué et de transmettre des informations à d'autres objets connectés.<br>
-                    Objet connecté est un objet intelligent c’est-à-dire communication de machine à machine sans avoir besoin d’un humain comme intermédiaire et
-                    c’est là plus grand changement.
+                   Un objet connecté est un objet intelligent c’est-à-dire capable de communicer de machine 
+                    à machine sans avoir besoin d’un humain comme intermédiaire.
                     <br>
                 </p>
                 <p data-aos="fade-down"
@@ -192,9 +191,7 @@
                    data-aos-duration="1000" style="color: black">
                     - IOT est la passerelle entre le monde physique et le monde virtuelle.
                 </p>
-                <div data-aos="zoom-in" style="text-align: center; margin-top: 20px">
-                    <a href="contact.php"><button class="theme-btn btn-style-two" style="text-align: center">DEMANDEZ UN DEVIS</button></a>
-                </div>
+                
             </div>
             <div data-aos="flip-left"
                  data-aos-easing="ease-out-cubic"
@@ -238,9 +235,7 @@
             - mieux connaître ses clients<br>
             - fidéliser ses clients
         </p>
-        <div data-aos="zoom-in-left" style="text-align: center; margin-top: 20px">
-            <a href="contact.php"><button class="theme-btn btn-style-two" style="text-align: center">DEMANDEZ UN DEVIS</button></a>
-        </div>
+        
     </div>
     </div>
     </div>

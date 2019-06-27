@@ -214,7 +214,7 @@
             <!--Services Title-->
             <div class="services-title" style="margin: none;padding: 70px 70px">
                 <h1 class="ml16">
-                    <div style="font-size: 40px; color: #d2b871; text-shadow: 1px 1px #000000;">Bienvenue dans notre entreprise</div>
+                    <div style="font-size: 55px; color: #d2b871; text-shadow: 1px 1px #000000;">Bienvenue</div>
                 </h1>
                 <h2 data-aos="fade-up"
                 data-aos-duration="1000" style="text-align:center;color: #000000;font-size: 20px;"> NL Technologie a été créée afin de vous accompagner tout au long de votre éveloppement pour des projets de transformation digitale. 
@@ -223,9 +223,14 @@
             </div> 
         </div>
     </section>
-    <!--End Welcome Section-->
+    <!--End Welcome Section--><hr>
     <section class="services-section no-padd-top grey-bg" style="background:#f2f4f1;padding: 70px 70px">
         <div class="auto-container">
+                    	<!--Sec Title-->
+                        <div class="sec-title-two">
+            	<h2>Nos services</h2>
+                <div class="text"></div>
+            </div>
             <div class="row clearfix">
                 <!--Services Block-->
                 <div data-aos="fade-right"
@@ -281,10 +286,10 @@
                      data-aos-easing="ease-in-sine" class="services-block col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box hvr-float-shadow">
                         <div class="image">
-                            <a href="bi.php"><img src="images/service/BI.png" alt="" /></a>
+                            <a href="bi.php"><img src="images/service/Business-Intelligence.png" alt="" /></a>
                         </div>
                         <div class="lower-content">
-                            <h3 style="text-align: center;"><a href="bi.php">BI</a></h3>
+                            <h3 style="text-align: center;"><a href="bi.php">Business Intelligence</a></h3>
                             <div class="text"></div>
                             <a href="bi.php" class="read-more">Savoir plus</a>
                         </div>
@@ -297,10 +302,10 @@
                      data-aos-easing="ease-in-sine" class="services-block col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box hvr-float-shadow">
                         <div class="image">
-                            <a href="iot.php"><img src="images/service/iot.jpg" alt="" /></a>
+                            <a href="iot.php"><img src="images/service/dio.jpg" alt="" /></a>
                         </div>
                         <div class="lower-content">
-                            <h3 style="text-align: center;"><a href="iot.php">IOT</a></h3>
+                            <h3 style="text-align: center;"><a href="iot.php">Internet des Objets</a></h3>
                             <div class="text"></div>
                             <a href="iot.php" class="read-more">Savoir plus</a>
                         </div>

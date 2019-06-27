@@ -97,30 +97,29 @@
                                 <div class="content">
                                     <img src="images/service/bi/1.png" />
                                     <h3 style="color:#fbc72e ; text-shadow: 3px 2px 5px #FFFFFF;">Collecte des données</h3>
-                                    <p>collecte des données pour mieux gérer l'entreprise</p>
+                                    <p>Grace au BI, vous pourrez visualiser vos données plus facilement</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/bi/2.png" />
                                     <h3 style="color: #e00f78; text-shadow: 3px 2px 5px #FFFFFF;">consolide vos taches</h3>
-                                    <p>Bi rend plus stable l'organisation de votre entreprise</p>
+                                    <p>Tout ce qu'il vous faut savoir sur vos projets au même endroit</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="content">
                                     <img src="images/service/bi/3.png" />
                                     <h3 style="color: #272b69; text-shadow: 3px 2px 5px #FFFFFF;">restitue tous les travaux</h3>
-                                    <p>BI reconstitue avec une manière rapide, souple et pertinente les travaux dans l'entreprise </p>
+                                    <p>Le BI rendra plus facile votre suivi et l'élaboration de vos rapports</p>
                                 </div>
                             </li>
                         </ul>
                         <div class="fs-icon" title="Expand/Close"></div>
                     </div>
                 </div>
-                <p data-aos="fade-right" style="text-align: center; color: white; margin-bottom: 70px;font-weight: bold">
-                    La BI est l'ensemble des moyens, des outils et méthodes qui permettent de collecter, intégrer,
-                    distribuer et de restituer les informations en vue d'offrir une aide à la décision
+                <p data-aos="fade-right" style="text-align: center; color: white; margin-bottom: 70px;font-weight: bold"> 
+                   Avec la BI, ou Business Intelligence, facilitez vos prises de décision grace à un outil analytique qui vous permet de collecter et visualiser l'ensemble de vos données.
                 </p>
             </div>
             <div class="row" style="background:#f8f8f8;padding: 70px 70px">
@@ -136,11 +135,11 @@
                     <h2 data-aos="flip-right"
                         data-aos-easing="linear"
                         data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left:
-                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold"">BI: BUSINESS INTELIGENCE</h2>
+                        6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">BI: BUSINESS INTELIGENCE </h2>
                     <p data-aos="fade-down"
                        data-aos-easing="linear"
                        data-aos-duration="1000" style="text-align: justify; margin-top: 10px;color: black">
-                        Le Business Intelligence (BI) n’est pas une nouvelle technologie. Il s’agit plutôt d’une solution complète d’analyse des données pour les entreprises, qui comprend le traitement analytique en ligne, l’exploration de données, de processus, la gestion de la performance, l’analyse comparative, prédictive
+                         Le Business Intelligence (BI) n’est pas à confondre avec la nouvelle technologie. Il s’agit plutôt d’une solution complète d’analyse des données pour les entreprises, qui comprend le traitement analytique en ligne, l’exploration de données, de processus, la gestion de la performance, l’analyse comparative, prédictive
                         et le reporting le plus important.
                     </p>
                     <p data-aos="fade-down"
@@ -163,25 +162,23 @@
                      data-aos-easing="linear"
                      data-aos-duration="700" style="font-size: 20px; text-align: center; color: #FFFFFF; border-left:
                         6px solid #FFFFFF;background-color: #d2b871;font-weight: bold">CARACTERISTIQUE DU BUSINESS INTELIGENCE</h2>
-                <p  style="text-align: justify; margin-top: 10px; color:#000000;">
-                    <div data-aos="fade-right">Analyse ad hoc</div>
-                    <div data-aos="fade-left">Requête ad hoc</div>
-                    <div data-aos="fade-right">Rapports ad hoc</div> 
-                    <div data-aos="fade-left">Benchmarking Budgétisation et prévision</div> 
-                    <div data-aos="fade-right">Tableau de bord</div>
-                    <div data-aos="fade-left">L’analyse des données </div> 
-                    <div data-aos="fade-right">Visualisation de données</div> 
-                    <div data-aos="fade-left">Indicateurs de performance clés OLAP</div> 
-                    <div data-aos="fade-right">Indicateurs de performance</div> 
-                    <div data-aos="fade-left">Analyses prédictives</div> 
-                    <div data-aos="fade-right">Analyse de rentabilité </div>
-                    <div data-aos="fade-left">Planification stratégique</div> 
-                    <div data-aos="fade-right">Indicateurs de tendance</div>
+                <p  style="text-align: justify; margin-top: 10px; ">
+                    <div style="color:#000000;" data-aos="fade-right">Analyse ad hoc</div>
+                    <div style="color:#000000;" data-aos="fade-left">Requête ad hoc</div>
+                    <div style="color:#000000;" data-aos="fade-right">Rapports ad hoc</div> 
+                    <div style="color:#000000;" data-aos="fade-left">Benchmarking Budgétisation et prévision</div> 
+                    <div style="color:#000000;" data-aos="fade-right">Tableau de bord</div>
+                    <div style="color:#000000;" data-aos="fade-left">L’analyse des données </div> 
+                    <div style="color:#000000;" data-aos="fade-right">Visualisation de données</div> 
+                    <div style="color:#000000;" data-aos="fade-left">Indicateurs de performance clés OLAP</div> 
+                    <div style="color:#000000;" data-aos="fade-right">Indicateurs de performance</div> 
+                    <div style="color:#000000;" data-aos="fade-left">Analyses prédictives</div> 
+                    <div style="color:#000000;" data-aos="fade-right">Analyse de rentabilité </div>
+                    <div style="color:#000000;" data-aos="fade-left">Planification stratégique</div> 
+                    <div style="color:#000000;"data-aos="fade-right">Indicateurs de tendance</div>
 
                 </p>
-                <div data-aos="zoom-in" style="text-align: center; margin-top: 20px">
-                    <a href="contact.php"><button class="theme-btn btn-style-two" style="text-align: center">DEMANDEZ UN DEVIS</button></a>
-                </div>
+                
             </div>
             <div data-aos="flip-left"
                  data-aos-easing="ease-out-cubic"
@@ -217,9 +214,7 @@
         - Qlik, <br>
         - Tableau de synthèse.
     </p>
-    <div data-aos="zoom-in-left" style="text-align: center; margin-top: 20px">
-        <a href="contact.php"><button class="theme-btn btn-style-two" style="text-align: center">DEMANDEZ UN DEVIS</button></a>
-    </div>
+   
 </div>
 </div>
 </div>
